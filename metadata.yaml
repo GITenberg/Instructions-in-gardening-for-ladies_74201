@@ -1,0 +1,51 @@
+_repo: Instructions-in-gardening-for-ladies_74201
+_version: 0.0.1
+alternative_title: Mrs. Loudon's gardening for ladies
+contributor:
+  illustrators:
+  - agent_name: Corbould, H. (Henry)
+    aliases:
+    - Corbould, Henry
+    - Courbould, H. (Henry)
+    birthdate: 1787
+    deathdate: 1844
+    gutenberg_agent_id: '57389'
+    url: http://www.gutenberg.org/2009/agents/57389
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Corbould
+  - agent_name: Williams, S.
+    gutenberg_agent_id: '57392'
+    url: http://www.gutenberg.org/2009/agents/57392
+creator:
+  author:
+    agent_name: Loudon, Mrs. (Jane)
+    aliases:
+    - Loudon, Jane
+    - Webb, Jane
+    - Loudon, Jane Webb
+    birthdate: 1807
+    deathdate: 1858
+    gutenberg_agent_id: '44664'
+    url: http://www.gutenberg.org/2009/agents/44664
+    wikipedia: https://en.wikipedia.org/wiki/Jane_C._Loudon
+description: ''
+gutenberg_issued: '2024-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74201'
+language: en
+pgterms:marc904: https://archive.org/details/instructionsinga00loud
+pgterms:marc905: 20230115002953loudon
+pgterms:marc906: '1840'
+pgterms:marc907: GB
+production_note: Alan, MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Murray, $c1840.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gardening -- Great Britain'
+- !lcc 'SB'
+- GITenberg
+title: Instructions in gardening for ladies
+url: http://www.gutenberg.org/ebooks/74201
